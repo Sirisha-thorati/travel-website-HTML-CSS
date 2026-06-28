@@ -15,19 +15,19 @@ HTML CSS Travel Project/
 -  Interactive Hover Effects
 
 ## Technologies Used
---HTML
---CSS
+- HTML
+- CSS
 
 ## How to Run
-1.Download or clone the repository.
-2.Open the project folder.
-3.Double-click on 'index.html'.
-4.Select "Open with Live Server".
+- Download or clone the repository.
+- Open the project folder.
+- Double-click on 'index.html'.
+- Select "Open with Live Server".
 
 ## Future Improvements
-1.Add Javascript
-2.Add booking section
-3.Improve responsiveness
+- Add Javascript
+- Add booking section
+- Improve responsiveness
 
 ## Author
 T.Sirisha Lathasri
