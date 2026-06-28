@@ -19,15 +19,15 @@ HTML CSS Travel Project/
 2.CSS
 
 ## How to Run
-1.Download or clone the repository
-2.Open the project folder
-3.Double-click on 'index.html'
-4.Select "Open with Live Server"
+1.Download or clone the repository.
+2.Open the project folder.
+3.Double-click on 'index.html'.
+4.Select "Open with Live Server".
 
 ## Future Improvements
--Add Javascript
--Add booking section
--Improve responsiveness
+1.Add Javascript
+2.Add booking section
+3.Improve responsiveness
 
 ## Author
 T.Sirisha Lathasri
