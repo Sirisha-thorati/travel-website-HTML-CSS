@@ -15,8 +15,8 @@ HTML CSS Travel Project/
 -  Interactive Hover Effects
 
 ## Technologies Used
-1.HTML
-2.CSS
+--HTML
+--CSS
 
 ## How to Run
 1.Download or clone the repository.
