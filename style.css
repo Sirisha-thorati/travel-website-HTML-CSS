@@ -128,6 +128,24 @@ div{
     padding:40px;
     font-size:20px;
 }
+@media screen and (max-width:700px){
+    .side_img{
+        width:400px;
+    }
+    .side_text{
+        width:400px;
+    }
+    .Our_Gallery{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-wrap:wrap;
+        gap:10px;
+        margin-bottom:10px;
+    }
+    .Gallery_text{
+        position:static;
+    }
 
 
 
