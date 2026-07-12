@@ -8,7 +8,6 @@ HTML CSS Travel Project/
 |_images
 
 ## Features
--  Responsive travel Website layout
 -  clean UI Design
 -  Simple and User-Friendly interface
 -  Organized Content Layout
@@ -23,11 +22,6 @@ HTML CSS Travel Project/
 - Open the project folder.
 - Double-click on 'index.html'.
 - Select "Open with Live Server".
-
-## Future Improvements
-- Add Javascript
-- Add booking section
-- Improve responsiveness
 
 ## Author
 T.Sirisha Lathasri
