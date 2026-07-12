@@ -8,6 +8,7 @@ HTML CSS Travel Project/
 |_images
 
 ## Features
+-  Mobile-Friendly Responsive Design
 -  clean UI Design
 -  Simple and User-Friendly interface
 -  Organized Content Layout
